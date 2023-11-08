@@ -1,0 +1,25 @@
+{
+  "name": "web3-zksnark",
+  "version": "1.0.0",
+  "description": "create a web3 zkSnark by circom and snarkjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.10",
+    "@types/circomlibjs": "^0.1.6",
+    "@types/snarkjs": "^0.7.7",
+    "chai": "^4.3.7",
+    "circom": "^0.5.46",
+    "circom_tester": "^0.0.19",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.14.0",
+    "mocha": "^10.2.0",
+    "snarkjs": "^0.7.2"
+  }
+}
